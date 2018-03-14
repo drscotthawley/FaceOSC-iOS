@@ -18,5 +18,5 @@ respectively.
 
 <hr ->
 
-Other (hopefully irrelevant) details: I build this using Mac OS X High Sierra 10.13.3, Xcode 9.3 beta 4, iPhone 7 Plus running iOS 11.3, built against Xcode Target iOS 11.0. 
+Other (hopefully irrelevant) details: I built this using Mac OS X High Sierra 10.13.3, Xcode 9.3 beta 4, iPhone 7 Plus running iOS 11.3, built against Xcode Target iOS 11.0. 
 
