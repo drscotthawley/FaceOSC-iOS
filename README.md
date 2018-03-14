@@ -1,4 +1,4 @@
-# FaceOSC-iOS
+# FaceOSC-iOS(-Wekinator)
 Port to iOS of Christopher Baker's FaceOSC for Kyle McDonald's ofxFaceTracker, with output set to be compatible with Rebecca Fiebrink's Wekinator
 
 See https://github.com/kylemcdonald/ofxFaceTracker
