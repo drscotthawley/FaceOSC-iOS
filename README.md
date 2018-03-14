@@ -9,7 +9,7 @@ I used the openFrameworks nightly build (March 13, 2018)  for iOS: http://ci.ope
 
 This app will *not* build if you use the 'stable' openFrameworks release (v0.9.8), so either grab a nightly build, or build the whole thing from source.  If you get errors submit an Issue and I'll try to help. 
 
-Note that OSC output uses the message `/wek/inputs`, numbered 0 to 13.
+Note that the OSC output is setup to issue the message `/wek/inputs`, with values numbered 0 to 13.
 
 Host and port for output is given in bin/data/settings.xml.  Currently set to 10.0.1.5 (my laptop on my home network), and port 6448 (Wekinator default),
 respectively. 
