@@ -3,7 +3,7 @@ Port to iOS of Christopher Baker's FaceOSC for Kyle McDonald's ofxFaceTracker, w
 
 See https://github.com/kylemcdonald/ofxFaceTracker
 
-Given how Apple does authentication, my binary wouldn't be accepted by your phone.  So you'll need to build your own binary using the .xcodeproject file.
+Given how Apple does authentication, my binary wouldn't be accepted by your phone.  So you'll need to build your own binary using the .xcodeproj file.
 
 I used the openFrameworks nightly build (March 13, 2018)  for iOS: http://ci.openframeworks.cc/versions/nightly/of_v20180313_ios_nightly.zip
 
