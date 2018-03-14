@@ -11,3 +11,5 @@ Note that OSC output is /wek/inputs, numbered 0 to 13.
 
 Host and port for output is given in bin/data/settings.xml.  Currently set to 10.0.1.5 (my laptop on my home network), and port 6448 (Wekinator default),
 respectively. 
+
+**TODO:** It's still "not pretty". There's an unused white area at the bottom of the screen, the face mesh is drawn in a disjointed way (??), and there are no user-editiable options of any kind while the app is running. 'Someone' could add a dialog box to at least allow the hostname to be changed on the fly. 
