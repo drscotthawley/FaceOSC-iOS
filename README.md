@@ -3,9 +3,11 @@ Port to iOS of Christopher Baker's FaceOSC for Kyle McDonald's ofxFaceTracker, w
 
 See https://github.com/kylemcdonald/ofxFaceTracker
 
+Given how Apple does authentication, my binary wouldn't be accepted by your phone.  So you'll need to build your own binary using the .xcodeproject file.
+
 I used the openFrameworks nightly build (March 13, 2018)  for iOS: http://ci.openframeworks.cc/versions/nightly/of_v20180313_ios_nightly.zip
 
-This will *not* work with the 'stable' openFrameworks release (v0.9.8), so either grab a nightly build, or build the whole thing from source. 
+This will *not* work with the 'stable' openFrameworks release (v0.9.8), so either grab a nightly build, or build the whole thing from source.  If you get errors submit an Issue and I'll try to help. 
 
 Note that OSC output is /wek/inputs, numbered 0 to 13.
 
