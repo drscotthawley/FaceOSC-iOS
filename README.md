@@ -15,3 +15,8 @@ Host and port for output is given in bin/data/settings.xml.  Currently set to 10
 respectively. 
 
 **TODO:** It's still "not pretty". There's an unused white area at the bottom of the screen, the face mesh is drawn in a disjointed way (??), and there are no user-editiable options of any kind while the app is running. 'Someone' could add a dialog box to at least allow the hostname to be changed on the fly. 
+
+<hr ->
+
+Other (hopefully irrelevant) details: I build this using Mac OS X High Sierra 10.13.3, Xcode 9.3 beta 4, iPhone 7 Plus running iOS 11.3, built against Xcode Target iOS 11.0. 
+
